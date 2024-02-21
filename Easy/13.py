@@ -61,8 +61,6 @@ def solution(roman:str) -> int:
         "L":50,
         "X":10,
         "V":5,
-        "III":3,
-        "II":2,
         "I":1
     }
 
